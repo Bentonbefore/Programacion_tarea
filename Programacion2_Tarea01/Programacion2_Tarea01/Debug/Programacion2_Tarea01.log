@@ -1,0 +1,3 @@
+﻿  Programacion2_Tarea01.cpp
+C:\Users\ALUMNOS\source\repos\Programacion2_Tarea01\Programacion2_Tarea01\Programacion2_Tarea01.cpp(10,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Programacion2_Tarea01.vcxproj -> C:\Users\ALUMNOS\source\repos\Programacion2_Tarea01\Debug\Programacion2_Tarea01.exe
